@@ -168,6 +168,153 @@
                 specs: "Note : falcon Add $20, Code: AN/AS/KNxxxA4",
                 image: "https://cccomputerkh.com/C-APPLE/Airpods-Pro2.jpg"
             },
+            {
+                id: 25,
+                name: "LUXE Asus VivoBook 16 M1605YA-MB702W",
+                price: 549,
+                specs: "Ryzen™ 5 7430U 6-Cores 12-Threads, RAM : 16GB = 24GB = $30, M.2 : 512GB PCIe 4.0",
+                image: "https://cccomputerkh.com/C-ASUS/X1605VA-A.jpg"
+            },
+            {
+                id: 26,
+                name: "LUXE Asus VivoBook 16 M1605YA-MB702W",
+                price: 749,
+                specs: " Intel® Core™ i7 1255U Processor, RAM : 8GB = 16GB = $20, Storage : 512GB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-ASUS/F1605ZA.jpg"
+            },
+            {
+                id: 27,
+                name: "LUXE Asus VivoBook S15 | K5504VA",
+                price: 599,
+                specs: " 13Th Gen Intel® Core™ i5-13500H, 8GB LPDDR5 | M.2 : 512GB PCIe 4.0, GPU : Intel® Iris Xe Graphics",
+                image: "https://cccomputerkh.com/C-ASUS/K5504.jpg"
+            },
+            {
+                id: 28,
+                name: "LUXE Asus VivoBook 16 M1605YA-MB702W",
+                price: 549,
+                specs: " Intel® Core™ i5 13420H Processor, RAM : 8GB DDR4 = 16GB = $20",
+                image: "https://cccomputerkh.com/C-ASUS/X1502VA.jpg"
+            },
+            {
+                id: 29,
+                name: "LUXE ASUS VivoBook X15 | X1504VA-NJ1860",
+                price: 449,
+                specs: "Intel® Core™ i5 1334U Processor, RAM : 8GB = 12GB = $10",
+                image: "https://cccomputerkh.com/C-ASUS/F1504VA.jpg"
+            },
+            {
+                id: 30,
+                name: "LUXE ASUS VivoBook X15 | X1504VA",
+                price: 349,
+                specs: "Intel® Core™ i3 1315U Processor, RAM : 4GB = 8GB = $10",
+                image: "https://cccomputerkh.com/C-ASUS/X1504VA.jpg"
+            },
+            {
+                id: 31,
+                name: "LUXE ASUS VivoBook X15 | X1504VA",
+                price: 749,
+                specs: "Intel® Core™ i3 1315U Processor, RAM : 8GB = 16GB = $10",
+                image: "https://cccomputerkh.com/C-ASUS/V3607VM.jpg"
+            },
+            {
+                id: 32,
+                name: "LUXE ASUS VivoBook Go 15 OLED | E1504FA",
+                price: 559,
+                specs: "AMD Ryzen 5-7520U Processor, RAM : 16GB / 512GB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-ASUS/e1504.jpg"
+            },
+            {
+                id: 33,
+                name: "LUXE ASUS VivoBook Go 15 FHD | E1504FA",
+                price: 499,
+                specs: "AMD Ryzen 5-7520U Processor, RAM : 16GB / 512GB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-ASUS/e1504-1.jpg"
+            },
+            {
+                id: 34,
+                name: "LUXE ASUS ROG Strix G17 | G713PI",
+                price: 1499,
+                specs: "AMD Ryzen 9 7845Hx 12-Core 24-Thread, RAM : 16GB (DDR5) = 32GB = $40, Storage : 512GB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-ASUS/G713Pi.jpg"
+            },
+            {
+                id: 35,
+                name: "LUXE ASUS ROG Strix G17 | G713PI",
+                price: 1599,
+                specs: "AMD Ryzen 9 7845Hx 12-Core 24-Thread, RAM : 16GB (DDR5) = 32GB = $40, Storage : 1TB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-ASUS/G614JU-I5.jpg"
+            },
+            {
+                id: 36,
+                name: "LUXE ASUS ROG Strix G17 | G713PI",
+                price: 1699,
+                specs: "AMD Ryzen 9 7845Hx 12-Core 24-Thread, RAM : 32GB (DDR5) = 64GB = $70, Storage : 1TB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-ASUS/G614JU-N3252W.jpg"
+            },
+            {
+                id: 37,
+                name: "LUXE ROG Strix G16 | G615JHR-S5097W",
+                price: 1439,
+                specs: "14th Gen Intel® Core™ i7-14650HX, RAM : 16GB (DDR5) = 32GB = $60, Storage : 1TB M.2 PCIe 4.0",
+                image: "https://cccomputerkh.com/C-ASUS/G615JHR.jpg"
+            },
+            {
+                id: 38,
+                name: "LUXE ROG Strix G16 | G615JMR-RV163W",
+                price: 1559,
+                specs: "14th Gen Intel® Core™ i7-14650HX, RAM : 32GB (DDR5) = 64GB = $90, Storage : 1TB M.2 PCIe 4.0",
+                image: "https://cccomputerkh.com/C-ASUS/G615JMR.jpg"
+            },
+            {
+                id: 39,
+                name: "LUXE ROG Strix G16 | G615LP-S5132W",
+                price: 1899,
+                specs: "Intel® Core™ Ultra 9 Processor 275HX, RAM : 16GB (DDR5) = 32GB = $60, Storage : 1TB M.2 PCIe 4.0",
+                image: "https://cccomputerkh.com/C-ASUS/G615LP.jpg"
+            },
+            {
+                id: 40,
+                name: "LUXE Dell Alienware M16 R2 | CPO",
+                price: 1299,
+                specs: "CPU : Intel® Core™ Ultra 7 155H 4.8 GHz, RAM : 16GB DDR5 (Upto 32GB add 50$), Storage : 1TB M.2 PCIe 4.0",
+                image: "https://cccomputerkh.com/C-ALIENWARE/AM16.jpg"
+            },
+            {
+                id: 41,
+                name: "LUXE Dell Alienware X16 R2",
+                price: 1699,
+                specs: "CPU : Intel® Core™ Ultra 7 155H 4.8 GHz, RAM : 16GB LPDDR5X 7467MT/s, Storage : 1TB M.2 PCIe 4.0",
+                image: "https://cccomputerkh.com/C-ALIENWARE/X16-R2.jpg"
+            },
+            {
+                id: 42,
+                name: "LUXE Alienware 18 Area 51 GAMING",
+                price: 3349,
+                specs: "CPU : Intel Core Ultra 9 275HX (24C/24T), RAM : 32GB DDR5 = 64GB add 90$, Storage : 2TB M.2 PCIe 4.0",
+                image: "https://cccomputerkh.com/C-ALIENWARE/Aura18-4.jpg"
+            },
+            {
+                id: 43,
+                name: "LUXE LENOVO LEGION R7000P 2025",
+                price: 1149,
+                specs: " Intel® Core™ i7-14650HX 16-C 24-T, RAM : 32GB DDR5 = 64GB = $90, Storage : 1TB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-LENOVO/R7000P-AD10R.jpg"
+            },
+            {
+                id: 44,
+                name: "LUXE LENOVO LEGION Y7000P",
+                price: 1289,
+                specs: " Ryzen™ 9 8940HX 16-Cores, 32-Threads, RAM : 16GB DDR5 = 32GB = $50, Storage : 1TB M.2 PCIe",
+                image: "https://cccomputerkh.com/C-LENOVO/LEGEN-5.jpg"
+            },
+            {
+                id: 45,
+                name: "LUXE LENOVO LOQ-15ARP9 | GAMING",
+                price: 1049,
+                specs: "- Ryzen™ 7 7435HS 8-Cores, 16-Threads, RAM : 16GB DDR5 = 32GB = $40, Storage : 512GB M.2 PCIe 4.0",
+                image: "https://cccomputerkh.com/C-LENOVO/LOQ-A.jpg"
+            },
         ];
 
         let cart = [];
