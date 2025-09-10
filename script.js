@@ -312,8 +312,50 @@
                 id: 45,
                 name: "LUXE LENOVO LOQ-15ARP9 | GAMING",
                 price: 1049,
-                specs: "- Ryzen™ 7 7435HS 8-Cores, 16-Threads, RAM : 16GB DDR5 = 32GB = $40, Storage : 512GB M.2 PCIe 4.0",
+                specs: "Ryzen™ 7 7435HS 8-Cores, 16-Threads, RAM : 16GB DDR5 = 32GB = $40, Storage : 512GB M.2 PCIe 4.0",
                 image: "https://cccomputerkh.com/C-LENOVO/LOQ-A.jpg"
+            },
+            {
+                id: 46,
+                name: "LUXE Lenovo Thinkpad P1-Gen7 Mobile Workstation",
+                price: 2779,
+                specs: " Intel® Core™ Ultra 9 185H AI Boost NPU, RAM : 32GB DDR5 = 64GB = $90, Storage :1TB M.2 PCIe Gen 4, 16 WQXGA 2.5K OLED 100% sRGB",
+                image: "https://cccomputerkh.com/C-LENOVO/P1-G7.jpg"
+            },
+            {
+                id: 47,
+                name: "LUXE HP OMEN MAX 16 GAMING",
+                price: 3379,
+                specs: " Intel® Core™ Ultra 9 275HX (24C/16T), RAM : 16GB DDR5 = 32GB = 40$, Storage : 1TB M.2 PCIe 4.0, Display : 16 WQXGA OLED 240Hz, GPU : NVIDIA RTX™ 5090 24GB,GPU : NVIDIA RTX™ 5090 24GB",
+                image: "https://cccomputerkh.com/C-HP/OmenMAX-2.jpg"
+            },
+            {
+                id: 48,
+                name: "LUXE HP OMEN MAX 16 GAMING ",
+                price: 3319,
+                specs: "  Intel® Core™ Ultra 9 275HX (24C/16T), RAM : 16GB DDR5 = 32GB = 40$, Storage : 512GB M.2 PCIe 4.0, Display : 16 WQXGA OLED 240Hz, GPU : NVIDIA RTX™ 5090 24GB,GPU : NVIDIA RTX™ 5090 24GB",
+                image: "https://cccomputerkh.com/C-HP/OmenMAX-1.jpg"
+            },
+            {
+                id: 49,
+                name: "LUXE ASUS TUF Gaming A17 FA706NFR ",
+                price: 679,
+                specs: "   Ryzen™ 7 7435HS 8Core 16Threads, RAM : 8GB = 16GB = $20, Storage : 512GB PCIe, 17.3 FHD (1920 x 1080) 144Hz",
+                image: "https://cccomputerkh.com/C-ASUS/TUF/FA706NFR-N.jpg"
+            },
+            {
+                id: 50,
+                name: "LUXE ASUS TUF Gaming A17 FA706NFR ",
+                price: 699,
+                specs: "   Ryzen™ 7 7435HS 8Core 16Threads, RAM : 16GB = 32GB = $30, Storage : 512GB PCIe, 17.3 FHD (1920 x 1080) 144Hz",
+                image: "https://cccomputerkh.com/C-ASUS/FA506NCG.jpg"
+            },
+            {
+                id: 51,
+                name: "LUXE ASUS TUF Gaming A17 FA706NFR ",
+                price: 739,
+                specs: "   Ryzen™ 7 7435HS 8Core 16Threads, RAM : 16GB = 32GB = $30, Storage : 1TB PCIe, 17.3 FHD (1920 x 1080) 144Hz",
+                image: "https://cccomputerkh.com/C-ASUS/TUF/FA507NVU.jpg"
             },
         ];
 
